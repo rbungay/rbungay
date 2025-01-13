@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I’m a software engineer exploring how great code balances simplicity, scalability, and trade-offs. My projects reflect my curiosity about crafting solutions that are both efficient and intuitive.
 
-<img align="right" alt="GIF" src="" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/rbungay/rbungay/blob/main/Developer%20activity.gif?raw=true" width="200px"/>
 
 🌱 What I’m learning:
 
