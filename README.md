@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a software engineer exploring how great code balances simplicity, scalability, and trade-offs. Every project here reflects my curiosity about crafting solutions that are both efficient and intuitive.
+I’m a software engineer exploring how great code balances simplicity, scalability, and trade-offs. My projects reflect my curiosity about crafting solutions that are both efficient and intuitive.
+
+<img align="right" alt="GIF" src="" width="360px"/>
 
 🌱 What I’m learning:
 
 1. The beauty of type systems (and how they save me from myself).
+
 2. Why scalability doesn’t need to mean complexity.
+
 3. How every tool reflects the problems it aims to solve.
 
 💡 Philosophy: Technology should solve problems, not create them. My goal is to write code that’s maintainable, scalable, and, above all, human-readable.
