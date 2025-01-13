@@ -67,21 +67,21 @@ I’m a software engineer exploring how great code balances simplicity, scalabil
     </td>
     <td align="center" width="96"> 
       <a href="#rbungay-tech" >
-        <img src="https://cdn.svgporn.com/logos/websocket.svg" width="48" height="48" alt="Websocket badge" />
-      </a>
-      <br>Websocket
-    </td>
-    <td align="center"  width="96">
-      <a href="#rbungay-tech">
-        <img src="https://cdn.svgporn.com/logos/go.svg" width="48" height="48" alt="Go badge" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#rbungay-tech" >
         <img src="https://cdn.svgporn.com/logos/python.svg" width="48" height="48" alt="Python badge" />
       </a>
       <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#rbungay-tech" >
+        <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="48" height="48" alt="PostgreSQL badge" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#rbungay-tech" >
+        <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="48" height="48" alt="Docker badge" />
+      </a>
+      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#rbungay-tech" >
@@ -89,11 +89,6 @@ I’m a software engineer exploring how great code balances simplicity, scalabil
       </a>
       <br>MongoDB
     </td>
-        <td align="center" width="96">
-      <a href="#rbungay-tech" >
-        <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="48" height="48" alt="PostgreSQL badge" />
-      </a>
-      <br>PostgreSQL
-    </td>
+
   </tr>
 </table>
