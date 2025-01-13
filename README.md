@@ -95,3 +95,9 @@ Tools, languages, and other things that I like to work with. <br>
 </table>
 
 And many others...
+
+## 📚 Blog Posts
+
+- [Holiday Grind and New Technologies](https://www.ranibungay.com/articles/holiday-grind-journey)
+- [Building an HTTP Server from Scratch](https://www.ranibungay.com/articles/http-server-from-scratch)
+- [My Journey of Refactoring YappApp](https://www.ranibungay.com/articles/refactoring-yappapp)
