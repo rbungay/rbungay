@@ -61,6 +61,12 @@ I’m a software engineer exploring how great code balances simplicity, scalabil
     </td>
     <td align="center" width="96">
       <a href="#rbungay-tech" >
+        <img src="https://cdn.svgporn.com/logos/flutter.svg" width="48" height="48" alt="Flutter badge" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#rbungay-tech" >
         <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="48" height="48" alt="Node badge" />
       </a>
       <br>Node.js
@@ -83,13 +89,6 @@ I’m a software engineer exploring how great code balances simplicity, scalabil
       </a>
       <br>Docker
     </td>
-    <td align="center" width="96">
-      <a href="#rbungay-tech" >
-        <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" width="48" height="48" alt="MongoDB badge" />
-      </a>
-      <br>MongoDB
-    </td>
-
 
   </tr>
 </table>
