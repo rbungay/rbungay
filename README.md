@@ -83,5 +83,11 @@ I’m a software engineer exploring how great code balances simplicity, scalabil
       </a>
       <br>Python
     </td>
+    <td align="center" width="96">
+      <a href="#rbungay-tech" >
+        <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" width="48" height="48" alt="MongoDB badge" />
+      </a>
+      <br>MongoDB
+    </td>
   </tr>
 </table>
