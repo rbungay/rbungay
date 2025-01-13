@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" alt="GIF" src="https://github.com/rbungay/rbungay/blob/main/Developer%20activity.gif?raw=true" width="300px"/>
-<a href="https://storyset.com/work">Work illustrations by Storyset</a>
 
 I’m a software engineer exploring how great code balances simplicity, scalability, and trade-offs. My projects reflect my curiosity about crafting solutions that are both efficient and intuitive.
 
@@ -29,6 +28,8 @@ I’m a software engineer exploring how great code balances simplicity, scalabil
 3. How every tool reflects the problems it aims to solve.
 
 💡 Philosophy: Technology should solve problems, not create them. My goal is to write code that’s maintainable, scalable, and, above all, human-readable.
+
+<a href="https://storyset.com/work">Work illustrations by Storyset</a>
 
 <h2 align="left" id="rbungay-tech">🔭 My Tech Stack</h2>
 
