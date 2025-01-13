@@ -30,54 +30,54 @@ I’m a software engineer exploring how great code balances simplicity, scalabil
 
 💡 Philosophy: Technology should solve problems, not create them. My goal is to write code that’s maintainable, scalable, and, above all, human-readable.
 
-## 🔭 My Tech Stack
+<h2 align="left" id="rbungay-tech">🔭 My Tech Stack</h2>
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#rbungay-tech">
         <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48" height="48" alt="JavaScript badge" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#rbungay-tech">
         <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="48" height="48" alt="TypeScript badge" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#rbungay-tech">
         <img src="https://cdn.svgporn.com/logos/react.svg" width="48" height="48" alt="React badge" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#rbungay-tech">
         <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="48" height="48" alt="Next badge" />
       </a>
       <br>Next.js
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#rbungay-tech" >
         <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="48" height="48" alt="Node badge" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
+      <a href="#rbungay-tech" >
         <img src="https://cdn.svgporn.com/logos/websocket.svg" width="48" height="48" alt="Websocket badge" />
       </a>
       <br>Websocket
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="#rbungay-tech">
         <img src="https://cdn.svgporn.com/logos/go.svg" width="48" height="48" alt="Go badge" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#rbungay-tech" >
         <img src="https://cdn.svgporn.com/logos/python.svg" width="48" height="48" alt="Python badge" />
       </a>
       <br>Python
