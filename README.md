@@ -89,5 +89,11 @@ I’m a software engineer exploring how great code balances simplicity, scalabil
       </a>
       <br>MongoDB
     </td>
+        <td align="center" width="96">
+      <a href="#rbungay-tech" >
+        <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="48" height="48" alt="PostgreSQL badge" />
+      </a>
+      <br>PostgreSQL
+    </td>
   </tr>
 </table>
