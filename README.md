@@ -15,7 +15,7 @@ I'm a software engineer exploring how great code balances simplicity, scalabilit
 2. Why scalability doesn't need to mean complexity
 3. How every tool reflects the problems it aims to solve
 
-#### 💡 Philosophy
+#### 💡 My Philosophy:
 
 Technology should solve problems, not create them. My goal is to write code that's maintainable, scalable, and, above all, human-readable.
 
