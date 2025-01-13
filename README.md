@@ -32,6 +32,7 @@ I’m a software engineer exploring how great code balances simplicity, scalabil
 <a href="https://storyset.com/work">Work illustrations by Storyset</a>
 
 <h2 align="left" id="rbungay-tech">🔭 My Tech Stack</h2>
+Tools, languages, and other things that I like to work with. <br>
 
 <table>
   <tr>
@@ -92,3 +93,5 @@ I’m a software engineer exploring how great code balances simplicity, scalabil
 
   </tr>
 </table>
+
+And many others...
