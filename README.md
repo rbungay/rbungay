@@ -19,7 +19,9 @@ I'm a software engineer exploring how great code balances simplicity, scalabilit
 
 Technology should solve problems, not create them. My goal is to write code that's maintainable, scalable, and, above all, human-readable.
 
+<p align="right">
 <a href="https://storyset.com/work" style="font-size: 0.8em;">Work illustrations by Storyset</a>
+</p>
 
 <h2 id="rbungay-tech">🔭 My Tech Stack</h2>
 
